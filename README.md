@@ -6,7 +6,7 @@ This project include two types of animations.
 
 Name : Della.Kim (Terry.Kim)  
 Email : [**della.kimko@terrylabs.dev**](della.kimko@terrylabs.dev)  
-Blog : [**BLOG**](https://terry-some.tistory.com/) / [**BLOG**](https://terrylabs.dev)  
+Blog : [**https://terry-some.tistory.com**](https://terry-some.tistory.com/) / [**https://terrylabs.dev**](https://terrylabs.dev)  
 
   
 # 1. Animation includes in this Project  
