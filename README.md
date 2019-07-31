@@ -3,6 +3,12 @@ Lottie Android Usage Example
 
 This is the Simple Example Android Application Project about using Lottie Library (made by AirBnb).
 This project include two types of animations.
+
+Name : Della.Kim (Terry.Kim)
+Email : [**della.kimko@terrylabs.dev**](della.kimko@terrylabs.dev)
+Blog : [**BLOG**](https://terry-some.tistory.com/) / [**BLOG**](https://terrylabs.dev)
+
+
 # 1. Animation includes in this Project
 ### 1.1. Switch Animation (Animation Distribution)
 I divided animation into two parts. 
